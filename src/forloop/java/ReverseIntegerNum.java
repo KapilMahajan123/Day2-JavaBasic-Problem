@@ -13,8 +13,8 @@ public class ReverseIntegerNum {
 			reverse = reverse*10 + remain;
 			num = num/10;
 		}
+		
 		System.out.println("Reversed number: " +reverse); 
-
 	}
 
 }
