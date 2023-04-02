@@ -17,5 +17,5 @@ public class ReverseIntegerNum {
 			System.out.println("Reverse of number is " + reverseDigits(num));
 		}
 	 }
-
+	
 }
