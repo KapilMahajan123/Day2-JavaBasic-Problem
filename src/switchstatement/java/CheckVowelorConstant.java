@@ -34,7 +34,7 @@ public class CheckVowelorConstant {
 			
 		default :
 			System.out.println("This Is A Consonant");
-		
+
 		
 		}
 		
