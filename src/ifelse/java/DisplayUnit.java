@@ -18,7 +18,7 @@ public class DisplayUnit {
 					System.out.println("Hundred place digit");
 				} else if (num == 1000) {
 					System.out.println("Thousand place digit");
-				} else {
+				} else{
 					System.out.println("Wrong Input....");
 				}
 
