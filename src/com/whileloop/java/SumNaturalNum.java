@@ -9,6 +9,7 @@ public class SumNaturalNum {
 			sum = sum + i;
 			i++;
 		}
+		
 		System.out.println("Sum of first five natural numbers is = " + sum);
 	}
 
