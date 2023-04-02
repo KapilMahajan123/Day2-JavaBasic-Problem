@@ -7,7 +7,6 @@ public class SumNaturalNum {
 		for (i=1; i<=num; i++) {
 			sum = sum + i;
 		}
-		
 		System.out.println("Sum of first natural numbers is = " + sum);
 	}
 
