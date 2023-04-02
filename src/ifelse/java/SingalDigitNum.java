@@ -24,15 +24,15 @@ public class SingalDigitNum {
 			System.out.println("Five");
 		}else if(num == 6) {
 			System.out.println("Six");	
-	    }else if(num == 7) {
-	    	System.out.println("Seven");	
-	    }else if(num == 8) {
-	    	System.out.println("Eight");	
-	    }else if(num == 9) {
-	    	System.out.println("Nine");	
-	    }else {										
-	    	System.out.println("Invalid input");
-	    }
+	        }else if(num == 7) {
+	    		System.out.println("Seven");	
+	    	}else if(num == 8) {
+	    		System.out.println("Eight");	
+	    	}else if(num == 9) {
+	    		System.out.println("Nine");	
+	    	}else {										
+	    		System.out.println("Invalid input");
+	    	}
 		
 	 }
 
