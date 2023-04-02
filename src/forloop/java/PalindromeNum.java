@@ -12,6 +12,7 @@ public class PalindromeNum {
 		int rem ; 
 		int temp = n;
 		System.out.println("Actual Number: "+ n+"");
+
 		for(int i=n ; i > 0; )
 		{
 			rem = i % 10 ;
